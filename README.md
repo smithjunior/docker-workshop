@@ -194,7 +194,7 @@ $ docker container commit my-ubuntu
 
 ### Dockerfile
 
-> Image Base ~> Dockerfile(Modificações na Imagem base) ~> Image
+> Image Base ~> Dockerfile(Modificações na Imagem base) ~> Image Custom
 
 #### Gerar nossa imagem
 
@@ -231,3 +231,9 @@ Entrar na pasta **PythonDocker** e executar o comando a baixo:
 ```bash
 $ docker-compose up -d
 ```
+
+## Overview orquestração
+
+### Kurbenetes
+
+> Demonstraçao pelo instrutor na Amazon
