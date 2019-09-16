@@ -237,3 +237,10 @@ $ docker-compose up -d
 ### Kurbenetes
 
 > Demonstraçao pelo instrutor na Amazon
+
+## Desafios
+
+- Go
+- Node
+- Python
+- Vue
