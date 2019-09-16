@@ -224,7 +224,7 @@ $ sudo chmod +x /usr/local/bin/docker-compose
 $ docker-compose -v
 ```
 
-### Python com docker-compose
+### Executar docker-compose
 
 Entrar na pasta **PythonDocker** e executar o comando a baixo:
 
